@@ -218,7 +218,7 @@ if __name__ == '__main__':
 
     # the courses you want to select, format: '`deptId`,`courseId``classId`'
     coursesList = [
-        '304,CS250B',
+        '311,EEA378B',
         # '304,CS310A',
         # '901,LS239A', 
     ]
